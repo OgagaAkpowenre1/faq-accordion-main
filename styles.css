@@ -89,3 +89,9 @@ body {
         width: 65vw;
     }
 }
+
+@media (max-width: 300px){
+    .faq-container {
+        width: 85vw;
+    }
+}
